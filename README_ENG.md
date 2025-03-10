@@ -1,4 +1,4 @@
-# 🚀 **DevBuddy: AI Code Review Service (Open Source)** 
+# 🚀 **DevBuddy: AI Code Review Service (Open Source)**
 > DevBuddy: AI Code Review Service (Open Source)
 
 | **[Korean](README.md)** | **[English](README_ENG.md)** |
@@ -106,14 +106,13 @@ jobs:
 
 ## 🛠 **Competitor Services and Feature Comparison**
 
-| **Service Name**          | **Open Source** | **Key Features**                                      | **Target Users**                  |
-|---------------------------|-----------------|--------------------------------------------------------|-----------------------------------|
-| **DevBuddy**              | ✅ Yes          | AI code review, automated test generation, GitHub Actions support | Solo developers, startups        |
-| **Codacy**                | ✅ Partial      | Code analysis, security checks, test automation        | Enterprises, teams               |
-| **DeepCode**              | ✅ Yes          | AI-based code review, static analysis                   | Developers, open-source projects |
-| **SonarQube**             | ✅ Yes          | Code quality and security analysis                     | Enterprises, large-scale projects|
-| **GitHub Copilot**        | ❌ No           | AI code autocompletion, some code review capabilities  | All developers                   |
-
+| **Service Name**          | **Launch Date** | **Open Source**         | **GitHub Repository**                                                   | **Active Status**          | **Key Features**                                                                    | **Target Users**                          | **Distinguishing Features**                                      |
+|-----------------------|-------------|---------------------|---------------------------------------------------------------------|------------------------|---------------------------------------------------------------------------------|---------------------------------------|---------------------------------------------------------------|
+| **DevBuddy**          | 2025        | ✅ Yes              | [DevBuddy GitHub](https://github.com/your-repo/devbuddy)            | Active                 | AI code review, automated test generation, documentation, GitHub Actions support | Solo developers, startups            | User-friendly UI, tailored for solo developers                |
+| **Codacy**            | 2014        | ✅ Partial          | [Codacy GitHub](https://github.com/codacy)                          | Active                 | Code analysis, security checks, test automation                                  | Enterprises, teams                   | Focus on security and quality                                |
+| **DeepCode**          | 2019        | ✅ Yes              | [DeepCode GitHub](https://github.com/DeepCodeAI)                    | Integrated into Snyk   | AI-based code review, static analysis                                            | Developers, open-source projects     | Machine learning-driven static analysis                       |
+| **SonarQube**         | 2007        | ✅ Yes              | [SonarQube GitHub](https://github.com/SonarSource/sonarqube)        | Active                 | Code quality and security analysis                                               | Enterprises, large-scale projects    | Comprehensive large-scale solution                            |
+| **GitHub Copilot**    | 2021        | ❌ No               | N/A                                                                 | Active                 | AI code autocompletion, some code review capabilities                            | All developers                       | Real-time code autocompletion                                |
 ---
 
 ## 📝 **License**
@@ -133,3 +132,4 @@ All you need to do is include the original license notice when redistributing th
 
 ---
 🚀 **Join us in building the AI-powered code review ecosystem!**
+

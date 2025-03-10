@@ -83,7 +83,6 @@ jobs:
 3. **PR 생성:** 코드 리뷰 요청을 보내세요.  
 4. **머지:** 리뷰 후 반영됩니다.
 
-
 ### 🛠 **Development Stack | 개발 환경**
 - **Backend**: FastAPI, Celery  
 - **AI Models**: GPT-4, Claude, Mistral  
