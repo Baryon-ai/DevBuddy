@@ -159,13 +159,9 @@ MIT 라이선스는 누구나 소프트웨어를 사용, 수정, 배포할 수 �
 배포 시 원본 라이선스 공지를 포함하면 자유롭게 활용할 수 있습니다.
 
 ## Community & Support | 커뮤니티 및 지원
-- 💬 [Discord Channel](https://discord.gg/your-channel)
+- 💬 [Discord Channel](https://discord.gg/7bSqAjPZDe)
 - 📧 Email: support@baryon.ai
 - 📝 [Contribution Guide](CONTRIBUTING.md)
-
-- 💬 [디스코드 채널](https://discord.gg/your-channel)
-- 📧 이메일: support@codereviewai.com
-- 📝 [기여 가이드](CONTRIBUTING.md)
 
 ---
 🚀 **Join us in building the AI-powered code review ecosystem!**
