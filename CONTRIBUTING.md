@@ -1,3 +1,25 @@
+
+## 커밋 메시지 형식
+커밋 메시지는 다음 형식을 따릅니다:
+- feat: 새로운 기능 추가
+- fix: 버그 수정
+- docs: 문서 변경
+- style: 코드 스타일 변경 (기능 변경 없음)
+- refactor: 코드 리팩토링
+- test: 테스트 추가 또는 수정
+- chore: 빌드 프로세스 또는 도구 변경
+## 코딩 스타일
+* 인덴트는 스페이스 2칸을 사용합니다.
+* 함수와 변수 이름은 camelCase를 사용합니다.
+* 클래스 이름은 PascalCase를 사용합니다.
+* 상수는 UPPER_SNAKE_CASE를 사용합니다.
+## Pull Request 가이드라인
+* 모든 PR은 기존 이슈를 참조해야 합니다.
+* PR 설명에 변경사항과 목적을 명확히 작성하세요.
+
+  
+
+
 ### 🚀 **DevBuddy Manager Recruitment | 매니저 모집**
 
 DevBuddy is seeking dedicated managers to lead and expand our AI-driven code review service for solo developers. Join us in creating an ecosystem that enhances developer productivity and code quality! 🎯
